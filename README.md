@@ -2,7 +2,7 @@
 In this application, the user enters a word and the application checks for 2 consecutive consonants and returns *True* if any, otherwise returns *False* and prints it to the console.
 </br>
 
-*Sample input: Hello - patika - Happy* </br>
+*Sample input: Hello - patika - Console* </br>
 *Sample output: True - False - True*
 
 </br>
